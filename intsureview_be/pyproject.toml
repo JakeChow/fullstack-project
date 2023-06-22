@@ -8,6 +8,7 @@ packages = [{include = "intsureview_be"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+Django = ">=3.2.14,<4.2"
 djangorestframework = "^3.14.0"
 
 [tool.poetry.group.dev.dependencies]
