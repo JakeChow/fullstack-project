@@ -1,14 +1,14 @@
 # Intro
 
-# Welcome to the Sure Associate Software Engineer take-home! We've loved getting to know you as a person and now we are excited to see how you approach some software problems!
+### Welcome to the Sure Associate Software Engineer take-home! We've loved getting to know you as a person and now we are excited to see how you approach some software problems!
 
 # Purpose
 
-# The purpose of this interview is to assess basic technical knowledge, see how you write and organize your code, and understand where you are in your software career. We won't be judging you on using the most complicated tech or coming up with contrived problems you can solve to show off. We just want to see how well you can read instructions and create high quality code!
+### The purpose of this interview is to assess basic technical knowledge, see how you write and organize your code, and understand where you are in your software career. We won't be judging you on using the most complicated tech or coming up with contrived problems you can solve to show off. We just want to see how well you can read instructions and create high quality code!
 
 # Getting started
 
-1. Fork the project on your github
+1. Fork the project from your github
 2. Create a branch with a relevant name containing both FE and BE work
 3. Upon completion, please create a PR from that branch with all of your changes
 4. Submit a link to that PR to the recruiting team for engineering review
@@ -17,7 +17,7 @@
 
 # Frontend
 
-# For the frontend we would like you to make a simple form. Everything about that is up to you. You should use the `intsureview_fe` folder as a starting point. The goal is for a clean user interface and experience that gets the job done. We aren't looking for incredible designs or multiple user flows. A basic form that you can submit and handles a response will suffice.
+### For the frontend we would like you to make a simple form. Everything about that is up to you. You should use the `intsureview_fe` folder as a starting point. The goal is for a clean user interface and experience that gets the job done. We aren't looking for incredible designs or multiple user flows. A basic form that you can submit and handles a response will suffice.
 
 ## Page Layout
 
@@ -39,7 +39,7 @@
 
 # Backend
 
-# For the backend we would like you to make a simple API endpoint that handles your form submission, and sends back a response for the frontend to use. We have provided a simple Django project `intsureview_be`. The goal here is for you to create an endpoint that handles the user input and sends a response back to the frontend.
+### For the backend we would like you to make a simple API endpoint that handles your form submission, and sends back a response for the frontend to use. We have provided a simple Django project `intsureview_be`. The goal here is for you to create an endpoint that handles the user input and sends a response back to the frontend.
 
 ## API Functionality
 
